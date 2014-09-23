@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30e8d14e-07a1-498c-910f-0da76c56d2b1" name="Default" comment="" />
+    <list default="true" id="30e8d14e-07a1-498c-910f-0da76c56d2b1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ortodon.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +29,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8707" column="17" selection-start="157464" selection-end="157464" vertical-scroll-proportion="0.5184729" vertical-offset="147598" max-vertical-offset="150484">
+            <state line="2991" column="17" selection-start="53497" selection-end="53497" vertical-scroll-proportion="0.37438422" vertical-offset="50543" max-vertical-offset="150484">
               <folding />
             </state>
           </provider>
@@ -35,7 +38,7 @@
       <file leaf-file-name="WebController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="351" column="29" selection-start="17769" selection-end="17769" vertical-scroll-proportion="0.0" vertical-offset="5654" max-vertical-offset="18411">
+            <state line="351" column="29" selection-start="17769" selection-end="17769" vertical-scroll-proportion="0.0" vertical-offset="5967" max-vertical-offset="18411">
               <folding />
             </state>
           </provider>
@@ -185,6 +188,20 @@
               <option name="myItemId" value="skin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -261,6 +278,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="skin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,9 +367,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -368,6 +389,27 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8707" column="17" selection-start="157464" selection-end="157464" vertical-scroll-proportion="0.0" vertical-offset="147598" max-vertical-offset="150484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="351" column="29" selection-start="17769" selection-end="17769" vertical-scroll-proportion="0.0" vertical-offset="5967" max-vertical-offset="18411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Block/News.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Pay.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505" />
@@ -534,7 +576,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8707" column="17" selection-start="157464" selection-end="157464" vertical-scroll-proportion="0.5184729" vertical-offset="147598" max-vertical-offset="150484">
+        <state line="2991" column="17" selection-start="53497" selection-end="53497" vertical-scroll-proportion="0.37438422" vertical-offset="50543" max-vertical-offset="150484">
           <folding />
         </state>
       </provider>

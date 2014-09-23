@@ -2989,7 +2989,7 @@ tr.summary-details-excluded {
 }
 .featured__products .price {
     color: rgb(168, 207, 125) !important;
-    font-size:20px !important;
+    font-size: 19px !important;
     padding-right: 7px;
 }
 .featured__mcenter .mcenter-item {
