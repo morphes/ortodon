@@ -1,4 +1,5 @@
 .modgit/
+.DS_Store
 app/code/community/Phoenix/
 app/code/community/Cm/
 app/code/core/
