@@ -1,449 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30e8d14e-07a1-498c-910f-0da76c56d2b1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/layout/morphes/checkoutcomment.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/layout/morphes_core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/layout/morphes_filters.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/layout/morphespro_filterslider.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/layout/morphespro_filtersuperslider.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/checkoutcomment/shipping_comment.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/checkoutcomment/widget/comment.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/core/js.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/core/popup.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/core/wait.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/filters/cms.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/filters/items/list.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/filters/items/list_popup.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/filters/items/standard.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/filters/items/standard_popup.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphes/filters/state.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphespro/filterslider/items.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphespro/filtersuperslider/attribute.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/morphespro/filtersuperslider/price.phtml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/asdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dachniki2_db.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/conf/Magmi_ReindexingPlugin.conf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/magmi/inc/magmi_postinstall.php.1402241162" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/slogon-marker.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alldomains.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemailr.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allemails.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allhosts.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.alllogins.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.allrobots.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.browserdetail.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.downloads.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.errors404.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keyphrases.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.keywords.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemailr.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastemails.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lasthosts.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastlogins.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.lastrobots.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.osdetail.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererpages.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.refererse.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownbrowser.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownip.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.unknownos.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urldetail.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlentry.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats.dachniki-club.ru.urlexit.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats012014.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats022014.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats062013.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats072013.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats082013.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats092013.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats102013.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats112013.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/awstats122013.dachniki-club.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.012014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.022014.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.052013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.062013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.072013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.082013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.092013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.102013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.112013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.122013.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webstat/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/banner-1.jpg" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/banner-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/banner-2.jpg" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/banner-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/banner-3.jpg" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/banner-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/body-bg.jpg" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/body-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/cart-bg.png" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/cart-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-1.png" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-2.png" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-3.png" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-4.png" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-5.png" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-6.png" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/images/media/img-home-6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/import/import.csv" afterPath="$PROJECT_DIR$/var/import/import.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/columnmapper/000_columnmapper.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/columnmapper/000_columnmapper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/skufinder/001_skufinder.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/skufinder/001_skufinder.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/defaultvalues/00_default_values.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/defaultvalues/00_default_values.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/00f4d19acbc0a448e50796f19a374015.css" afterPath="$PROJECT_DIR$/media/css/00f4d19acbc0a448e50796f19a374015.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/importlimiter/01_importlimiter.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/importlimiter/01_importlimiter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/01b336792f4c35bbd8586e53deddbe46.css" afterPath="$PROJECT_DIR$/media/css/01b336792f4c35bbd8586e53deddbe46.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/02_genericmapper.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/02_genericmapper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/08f014146a8e4cc2d196c18296939fb1.css" afterPath="$PROJECT_DIR$/media/css/08f014146a8e4cc2d196c18296939fb1.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/1d3199e1d96101fd02a5cd914b9a957b.css" afterPath="$PROJECT_DIR$/media/css/1d3199e1d96101fd02a5cd914b9a957b.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/336835272c33716e394ce5417a1923ed.css" afterPath="$PROJECT_DIR$/media/css/336835272c33716e394ce5417a1923ed.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/379155e1d19347efa148a846f6957674.css" afterPath="$PROJECT_DIR$/media/css/379155e1d19347efa148a846f6957674.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/3f5edea794a582b9f79cd3fb2810878c.css" afterPath="$PROJECT_DIR$/media/css/3f5edea794a582b9f79cd3fb2810878c.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/582836223d5b0e4faa59e65ca902dcd6.css" afterPath="$PROJECT_DIR$/media/css/582836223d5b0e4faa59e65ca902dcd6.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/7365b0a7d4de760d8692e62041f8997a.css" afterPath="$PROJECT_DIR$/media/css/7365b0a7d4de760d8692e62041f8997a.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/785bc1fdcc38f998ad148b41fa9e7a92.css" afterPath="$PROJECT_DIR$/media/css/785bc1fdcc38f998ad148b41fa9e7a92.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/87a9a1f2b0d82708b3c6cb961a46dd50.css" afterPath="$PROJECT_DIR$/media/css/87a9a1f2b0d82708b3c6cb961a46dd50.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/8894f47d0b3788517a36f243f4c5729f.css" afterPath="$PROJECT_DIR$/media/css/8894f47d0b3788517a36f243f4c5729f.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/954e416aed4d3b8136cadf2c3d4dc740.css" afterPath="$PROJECT_DIR$/media/css/954e416aed4d3b8136cadf2c3d4dc740.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/9ea565a78b313760b10082c419f90aa0.css" afterPath="$PROJECT_DIR$/media/css/9ea565a78b313760b10082c419f90aa0.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/community/CommerceLab/Mcenter/Block/Abstract.php" afterPath="$PROJECT_DIR$/app/code/community/CommerceLab/Mcenter/Block/Abstract.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/Magehouse_Slider.xml" afterPath="$PROJECT_DIR$/app/etc/modules/Magehouse_Slider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterAdmin.xml" afterPath="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterAdmin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSlider.xml" afterPath="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSlider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSuperSlider.xml" afterPath="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSuperSlider.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/Morphes_Admin.xml" afterPath="$PROJECT_DIR$/app/etc/modules/Morphes_Admin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/Morphes_Core.xml" afterPath="$PROJECT_DIR$/app/etc/modules/Morphes_Core.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/Morphes_Db.xml" afterPath="$PROJECT_DIR$/app/etc/modules/Morphes_Db.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/Morphes_Filters.xml" afterPath="$PROJECT_DIR$/app/etc/modules/Morphes_Filters.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/ReleaseNotes.txt" afterPath="$PROJECT_DIR$/magmi/ReleaseNotes.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/etc/modules/Sashas_Confimages.xml" afterPath="$PROJECT_DIR$/app/etc/modules/Sashas_Confimages.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php" afterPath="$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/__common__.csv" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/mappings/default/__common__.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/media/css/ad0c20282d29505be62c13c5a37f6aba.css" afterPath="$PROJECT_DIR$/media/css/ad0c20282d29505be62c13c5a37f6aba.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/ajax_gettime.php" afterPath="$PROJECT_DIR$/magmi/web/ajax_gettime.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/ajax_pluginconf.php" afterPath="$PROJECT_DIR$/magmi/web/ajax_pluginconf.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/grouped/alpine_groupedprocessor.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/grouped/alpine_groupedprocessor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/toys/template/page/html/appstockus.js" afterPath="$PROJECT_DIR$/app/design/frontend/default/toys/template/page/html/appstockus.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/toys/js/appstockus.js" afterPath="$PROJECT_DIR$/skin/frontend/default/toys/js/appstockus.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/css/camera.css" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/css/camera.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/clearcatalog.php" afterPath="$PROJECT_DIR$/magmi/web/clearcatalog.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/core/Mage/Page/etc/config.xml" afterPath="$PROJECT_DIR$/app/code/core/Mage/Page/etc/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/toys/template/catalog/product/content_home.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/toys/template/catalog/product/content_home.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/upcross_sell/crossupsell_products.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/upcross_sell/crossupsell_products.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/csvds_filelist.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/csvds_filelist.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/dbhelper.class.php" afterPath="$PROJECT_DIR$/magmi/inc/dbhelper.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/download_file.php" afterPath="$PROJECT_DIR$/magmi/web/download_file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/emailreport/emailreport.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/general/emailreport/emailreport.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/layout/faq.xml" afterPath="$PROJECT_DIR$/app/design/frontend/base/default/layout/faq.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/faq/faq_block_left.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/base/default/template/faq/faq_block_left.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/footer.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/footer.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/toys/template/page/html/footer.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/toys/template/page/html/footer.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/fshelper.php" afterPath="$PROJECT_DIR$/magmi/inc/fshelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/head.php" afterPath="$PROJECT_DIR$/magmi/web/head.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/header.php" afterPath="$PROJECT_DIR$/magmi/web/header.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/importurl/importurl_plugin.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/general/importurl/importurl_plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/import/kanc.csv" afterPath="$PROJECT_DIR$/var/import/kanc.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/list.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/list.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/list.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/list.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/cli/magmi.cli.php" afterPath="$PROJECT_DIR$/magmi/cli/magmi.cli.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/css/magmi.css" afterPath="$PROJECT_DIR$/magmi/web/css/magmi.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi.php" afterPath="$PROJECT_DIR$/magmi/web/magmi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_cancel.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_cancel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_chooseprofile.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_chooseprofile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_config.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_config_setup.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_config_setup.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/configurables/magmi_configurableprocessor.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/configurables/magmi_configurableprocessor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/magmi_csvdatasource.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/magmi_csvdatasource.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_csvreader.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_csvreader.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/integration/inc/magmi_datapump.php" afterPath="$PROJECT_DIR$/magmi/integration/inc/magmi_datapump.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/integration/inc/magmi_datapumpdatasource.php" afterPath="$PROJECT_DIR$/magmi/integration/inc/magmi_datapumpdatasource.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_datasource.php" afterPath="$PROJECT_DIR$/magmi/plugins/inc/magmi_datasource.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_defaultattributehandler.php" afterPath="$PROJECT_DIR$/magmi/plugins/inc/magmi_defaultattributehandler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_defs.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_defs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_engine.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_engine.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_generalimport_plugin.php" afterPath="$PROJECT_DIR$/magmi/plugins/inc/magmi_generalimport_plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_import_run.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_import_run.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_loggers.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_loggers.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/__magento/magmi_magentodatasource.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/__magento/magmi_magentodatasource.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_mixin.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_mixin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/optimizer/magmi_optimizer_plugin.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/general/optimizer/magmi_optimizer_plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_plugin.php" afterPath="$PROJECT_DIR$/magmi/plugins/inc/magmi_plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_pluginhelper.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_pluginhelper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/engines/magmi_productimportengine.php" afterPath="$PROJECT_DIR$/magmi/engines/magmi_productimportengine.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_profile_config.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_profile_config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_profile_panel.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_profile_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_progress.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_progress.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/reindex/magmi_reindexing_plugin.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/general/reindex/magmi_reindexing_plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_run.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_run.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_saveconfig.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_saveconfig.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_saveprofile.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_saveprofile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_statemanager.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_statemanager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_upload.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_upload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_utilities.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_utilities.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/inc/magmi_utility_plugin.php" afterPath="$PROJECT_DIR$/magmi/plugins/inc/magmi_utility_plugin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/engines/magmi_utilityengine.php" afterPath="$PROJECT_DIR$/magmi/engines/magmi_utilityengine.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/js/magmi_utils.js" afterPath="$PROJECT_DIR$/magmi/web/js/magmi_utils.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_utils.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_utils.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/magmi_version.php" afterPath="$PROJECT_DIR$/magmi/inc/magmi_version.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/magmi_web_utils.php" afterPath="$PROJECT_DIR$/magmi/web/magmi_web_utils.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/mysql_options.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/mysql_options.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/theme419/layout/newsletter.xml" afterPath="$PROJECT_DIR$/app/design/frontend/default/theme419/layout/newsletter.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/__magento/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/__magento/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/csv/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/emailreport/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/general/emailreport/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/importurl/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/general/importurl/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/general/reindex/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/general/reindex/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/columnmapper/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/columnmapper/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/configurables/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/configurables/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/defaultvalues/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/defaultvalues/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/genericmapper/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/grouped/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/grouped/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/importlimiter/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/importlimiter/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/productdeleter/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/productdeleter/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/skufinder/options_panel.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/skufinder/options_panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/other_options.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/other_options.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/plugin_upload.php" afterPath="$PROJECT_DIR$/magmi/web/plugin_upload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/conf/plugins.conf" afterPath="$PROJECT_DIR$/magmi/conf/plugins.conf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/productdeleter/productdeleter.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/productdeleter/productdeleter.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/integration/inc/productimport_datapump.php" afterPath="$PROJECT_DIR$/magmi/integration/inc/productimport_datapump.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/progress_details.php" afterPath="$PROJECT_DIR$/magmi/web/progress_details.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/progress_parser.php" afterPath="$PROJECT_DIR$/magmi/web/progress_parser.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/inc/properties.php" afterPath="$PROJECT_DIR$/magmi/inc/properties.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/related/related_products.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/itemprocessors/related/related_products.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/integration/samples/sample.php" afterPath="$PROJECT_DIR$/magmi/integration/samples/sample.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/integration/samples/sample2_configurables.php" afterPath="$PROJECT_DIR$/magmi/integration/samples/sample2_configurables.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="$PROJECT_DIR$/sitemap.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/sql_datasource.php" afterPath="$PROJECT_DIR$/magmi/plugins/base/datasources/genericsql/sql_datasource.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/css/superfish.css" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/css/superfish.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/catalog/product/edit/price/tier.phtml" afterPath="$PROJECT_DIR$/app/design/adminhtml/default/default/template/catalog/product/edit/price/tier.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magmi/web/trace_details.php" afterPath="$PROJECT_DIR$/magmi/web/trace_details.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/base/default/template/confimages/view.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/base/default/template/confimages/view.phtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="30e8d14e-07a1-498c-910f-0da76c56d2b1" name="Default" comment="" />
     <ignored path="ortodon.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -465,97 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="clmcenter.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/default/layout/clmcenter.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="0" selection-start="3669" selection-end="3669" vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="1785">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2columns-left.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/2columns-left.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="42" selection-start="1673" selection-end="1673" vertical-scroll-proportion="-10.230769" vertical-offset="516" max-vertical-offset="1292">
-              <folding>
-                <element signature="e#6#968#0" expanded="true" />
-                <element signature="e#978#1022#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="faq_block_left.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/faq/faq_block_left.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="faq.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/faq.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="3" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="918">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="translate.csv" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/locale/en_US/translate.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="18" selection-start="3451" selection-end="3458" vertical-scroll-proportion="-5.740741" vertical-offset="1375" max-vertical-offset="3519">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.phtml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/list.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="176" selection-start="2639" selection-end="2639" vertical-scroll-proportion="0.35193133" vertical-offset="567" max-vertical-offset="1275">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.phtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/list.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="176" selection-start="2541" selection-end="2541" vertical-scroll-proportion="-6.3076925" vertical-offset="567" max-vertical-offset="1275">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3336" column="38" selection-start="60351" selection-end="60351" vertical-scroll-proportion="-2.3272727" vertical-offset="56584" max-vertical-offset="150110">
+            <state line="8707" column="17" selection-start="157464" selection-end="157464" vertical-scroll-proportion="0.5184729" vertical-offset="147598" max-vertical-offset="150484">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="camera.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/camera.css">
+      <file leaf-file-name="WebController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="456" column="30" selection-start="9648" selection-end="9648" vertical-scroll-proportion="-8.576923" vertical-offset="7529" max-vertical-offset="19686">
+            <state line="351" column="29" selection-start="17769" selection-end="17769" vertical-scroll-proportion="0.0" vertical-offset="5654" max-vertical-offset="18411">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="superfish.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/superfish.css">
+      <file leaf-file-name="News.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Block/News.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="93" column="40" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0" vertical-offset="1379" max-vertical-offset="4556">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
               <folding />
             </state>
           </provider>
@@ -574,19 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/design/frontend/default/toys/template/page/html/appstockus.js" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/toys/template/page/html/footer.phtml" />
-        <option value="$PROJECT_DIR$/media/css/00f4d19acbc0a448e50796f19a374015.css" />
-        <option value="$PROJECT_DIR$/media/css/01b336792f4c35bbd8586e53deddbe46.css" />
-        <option value="$PROJECT_DIR$/media/css/08f014146a8e4cc2d196c18296939fb1.css" />
-        <option value="$PROJECT_DIR$/media/css/1d3199e1d96101fd02a5cd914b9a957b.css" />
-        <option value="$PROJECT_DIR$/media/css/336835272c33716e394ce5417a1923ed.css" />
-        <option value="$PROJECT_DIR$/media/css/379155e1d19347efa148a846f6957674.css" />
-        <option value="$PROJECT_DIR$/media/css/3f5edea794a582b9f79cd3fb2810878c.css" />
-        <option value="$PROJECT_DIR$/media/css/582836223d5b0e4faa59e65ca902dcd6.css" />
-        <option value="$PROJECT_DIR$/media/css/7365b0a7d4de760d8692e62041f8997a.css" />
-        <option value="$PROJECT_DIR$/media/css/785bc1fdcc38f998ad148b41fa9e7a92.css" />
-        <option value="$PROJECT_DIR$/media/css/87a9a1f2b0d82708b3c6cb961a46dd50.css" />
         <option value="$PROJECT_DIR$/media/css/8894f47d0b3788517a36f243f4c5729f.css" />
         <option value="$PROJECT_DIR$/media/css/954e416aed4d3b8136cadf2c3d4dc740.css" />
         <option value="$PROJECT_DIR$/media/css/9ea565a78b313760b10082c419f90aa0.css" />
@@ -596,14 +72,12 @@
         <option value="$PROJECT_DIR$/app/code/core/Mage/Page/etc/config.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/footer.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/layout/newsletter.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/main.phtml" />
         <option value="$PROJECT_DIR$/lib/ExcelReader/excelreader-prices.php" />
         <option value="$PROJECT_DIR$/lib/ExcelReader/excelreader.php" />
         <option value="$PROJECT_DIR$/magmi/web/magmi_run.php" />
         <option value="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/imageprocessor/imageitattributeemprocessor.php" />
         <option value="$PROJECT_DIR$/app/etc/modules/Sashas_Confimages.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/confimages/view.phtml" />
-        <option value="$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php" />
         <option value="$PROJECT_DIR$/app/code/community/Magehouse/Slider/Block/Catalog/Layer/Filter/Price.php" />
         <option value="$PROJECT_DIR$/app/etc/modules/Magehouse_Slider.xml" />
         <option value="$PROJECT_DIR$/app/design/adminhtml/default/default/template/catalog/product/edit/price/tier.phtml" />
@@ -614,17 +88,32 @@
         <option value="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterAdmin.xml" />
         <option value="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSlider.xml" />
         <option value="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSuperSlider.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphes_filters.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml" />
         <option value="$PROJECT_DIR$/skin/frontend/default/theme419/css/camera.css" />
         <option value="$PROJECT_DIR$/skin/frontend/default/theme419/css/superfish.css" />
-        <option value="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/default/layout/clmcenter.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/2columns-left.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/faq/faq_block_left.phtml" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/layout/faq.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/list.phtml" />
+        <option value="$PROJECT_DIR$/unproccessed-orders.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/layout/page.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/2columns-right.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/2columns-left.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/menu.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/layout/catalog.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphes_filters.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/layout/clmcenter.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/topmenu.phtml" />
+        <option value="$PROJECT_DIR$/app/code/community/CommerceLab/News/etc/config.xml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/main.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/mainview.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/mcenter_print.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/mcenteritem.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/layout/clnews.xml" />
         <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/list.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/list.phtml" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/mainview.phtml" />
+        <option value="$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/main.phtml" />
+        <option value="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" />
       </list>
     </option>
   </component>
@@ -693,73 +182,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ortodon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ortodon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ortodon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ortodon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
+              <option name="myItemId" value="skin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ortodon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ortodon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -777,11 +204,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
+              <option name="myItemId" value="skin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -789,15 +212,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
+              <option name="myItemId" value="theme419" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -811,11 +230,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
+              <option name="myItemId" value="skin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -823,19 +238,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="default" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="template" />
+              <option name="myItemId" value="theme419" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="faq" />
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -846,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lp/ochki/site" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lsdat/lsdating" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -889,7 +314,6 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3481829" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -900,6 +324,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3481829" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -911,7 +336,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3481829" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -922,8 +347,8 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -943,376 +368,173 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/newsletter.xml">
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Pay.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="0" selection-start="1303" selection-end="1303" vertical-scroll-proportion="0.0" vertical-offset="482" max-vertical-offset="1275">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/main.phtml">
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Tabs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="10" selection-start="2642" selection-end="2642" vertical-scroll-proportion="-25.0" vertical-offset="166" max-vertical-offset="952">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/local.xml">
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterAdmin.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="23" selection-start="2128" selection-end="2128" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="1598">
-          <folding />
-        </state>
+        <state line="14" column="24" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ExcelReader/excelreader-prices.php">
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSlider.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="974" column="31" selection-start="29570" selection-end="29570" vertical-scroll-proportion="-2.4230769" vertical-offset="15650" max-vertical-offset="28849">
-          <folding>
-            <marker date="1409733329000" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="14" column="24" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ExcelReader/excelreader.php">
+    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSuperSlider.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="9" selection-start="3637" selection-end="3637" vertical-scroll-proportion="-7.326923" vertical-offset="741" max-vertical-offset="28849">
-          <folding>
-            <marker date="1409733435000" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="13" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/magmi/web/magmi_run.php">
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="22" selection-start="362" selection-end="380" vertical-scroll-proportion="-9.153846" vertical-offset="68" max-vertical-offset="952">
-          <folding />
-        </state>
+        <state line="56" column="105" selection-start="2560" selection-end="2560" vertical-scroll-proportion="-6.3076925" vertical-offset="397" max-vertical-offset="1207" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/imageprocessor/imageitattributeemprocessor.php">
+    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/camera.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="183" column="9" selection-start="6468" selection-end="6468" vertical-scroll-proportion="-14.461538" vertical-offset="2735" max-vertical-offset="11203">
-          <folding>
-            <marker date="1403010600000" expanded="true" signature="-1:-1" placeholder="SELECT $t.va..." />
-            <marker date="1403010600000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1403010600000" expanded="true" signature="-1:-1" placeholder="UPDATE $t SE..." />
-            <marker date="1403010600000" expanded="true" signature="-1:-1" placeholder="SELECT MAX( ..$tgv AS..." />
-          </folding>
-        </state>
+        <state line="456" column="30" selection-start="9648" selection-end="9648" vertical-scroll-proportion="0.0" vertical-offset="7529" max-vertical-offset="19686" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Sashas/Confimages/etc/config.xml">
+    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/superfish.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
-          <folding />
-        </state>
+        <state line="93" column="40" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0" vertical-offset="1379" max-vertical-offset="4556" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Sashas/Confimages/etc/adminhtml.xml">
+    <entry file="file://$PROJECT_DIR$/apc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="22899" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Sashas/Confimages/etc/system.xml">
+    <entry file="file://$PROJECT_DIR$/api.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1428">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1598" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Sashas/Confimages/Block/Switcher.php">
+    <entry file="file://$PROJECT_DIR$/cron.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Sashas_Confimages.xml">
+    <entry file="file://$PROJECT_DIR$/cron.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="97" selection-end="97" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1479" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/confimages.xml">
+    <entry file="file://$PROJECT_DIR$/Edost.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="20094" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/confimages/view.phtml">
+    <entry file="file://$PROJECT_DIR$/setquanity.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="34" selection-start="1704" selection-end="1704" vertical-scroll-proportion="-22.0" vertical-offset="193" max-vertical-offset="969">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/controllers/IndexController.php">
+    <entry file="file://$PROJECT_DIR$/unproccessed-orders.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
+        <state line="7" column="0" selection-start="100" selection-end="253" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2941" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/2columns-right.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="59" selection-start="353" selection-end="353" vertical-scroll-proportion="11.346154" vertical-offset="465" max-vertical-offset="1292" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/2columns-left.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="77" selection-start="2039" selection-end="2039" vertical-scroll-proportion="-17.76923" vertical-offset="48" max-vertical-offset="867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphes_core.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="37" selection-start="2318" selection-end="2320" vertical-scroll-proportion="-5.9615383" vertical-offset="525" max-vertical-offset="1224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphespro_filterslider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="63" selection-start="1165" selection-end="1167" vertical-scroll-proportion="-5.6538463" vertical-offset="142" max-vertical-offset="816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphespro_filtersuperslider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="22" selection-start="2149" selection-end="2151" vertical-scroll-proportion="-10.076923" vertical-offset="316" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphes/checkoutcomment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="28" selection-start="576" selection-end="576" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="185" column="65" selection-start="10131" selection-end="10131" vertical-scroll-proportion="-13.153846" vertical-offset="2803" max-vertical-offset="3655" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/catalog.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="371" column="31" selection-start="22410" selection-end="22410" vertical-scroll-proportion="0.0" vertical-offset="5973" max-vertical-offset="7395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphes_filters.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="24" selection-start="3290" selection-end="3290" vertical-scroll-proportion="-8.576923" vertical-offset="661" max-vertical-offset="1139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/topmenu.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="101" selection-start="1563" selection-end="1563" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Model/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Model/Check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Block/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4879" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="45" selection-start="5858" selection-end="5863" vertical-scroll-proportion="-9.923077" vertical-offset="2462" max-vertical-offset="4862" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/Mcenter/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="22" selection-start="528" selection-end="537" vertical-scroll-proportion="20.153847" vertical-offset="864" max-vertical-offset="4879" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Block/News.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="371" column="0" selection-start="18398" selection-end="18398" vertical-scroll-proportion="-9.769231" vertical-offset="6053" max-vertical-offset="18105">
-          <folding>
-            <marker date="1409813452000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/community/Magehouse/Slider/Block/Catalog/Layer/Filter/Price.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="366" column="21" selection-start="9303" selection-end="9303" vertical-scroll-proportion="-13.5" vertical-offset="5871" max-vertical-offset="10200">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Magehouse_Slider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/template/catalog/product/edit/price/tier.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="74" selection-start="4266" selection-end="4266" vertical-scroll-proportion="-16.115385" vertical-offset="584" max-vertical-offset="2618">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Admin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Adminregion.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Background.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Call.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Categoryattr.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_CheckoutComment.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Core.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="617" selection-end="617" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Courier.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Db.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Filters.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Logist.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Order.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Pay.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Tabs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterAdmin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSlider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSuperSlider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphes_core.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="64" selection-start="1976" selection-end="1988" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1224">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphes_filters.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="47" selection-start="3088" selection-end="3092" vertical-scroll-proportion="-23.461538" vertical-offset="206" max-vertical-offset="1139">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphespro_filterslider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/layout/morphespro_filtersuperslider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="105" selection-start="2560" selection-end="2560" vertical-scroll-proportion="-6.3076925" vertical-offset="397" max-vertical-offset="1207">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/camera.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="456" column="30" selection-start="9648" selection-end="9648" vertical-scroll-proportion="-8.576923" vertical-offset="7529" max-vertical-offset="19686">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/superfish.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="93" column="40" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0" vertical-offset="1379" max-vertical-offset="4556">
+        <state line="351" column="29" selection-start="17769" selection-end="17769" vertical-scroll-proportion="0.0" vertical-offset="5654" max-vertical-offset="18411">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3336" column="38" selection-start="60351" selection-end="60351" vertical-scroll-proportion="-2.3272727" vertical-offset="56584" max-vertical-offset="150110">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/default/layout/clmcenter.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="3669" selection-end="3669" vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="1785">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/2columns-left.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="42" selection-start="1673" selection-end="1673" vertical-scroll-proportion="-10.230769" vertical-offset="516" max-vertical-offset="1292">
-          <folding>
-            <element signature="e#6#968#0" expanded="true" />
-            <element signature="e#978#1022#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/template/faq/faq_block_left.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="1044" selection-end="1044" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/base/default/layout/faq.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="3" selection-start="1745" selection-end="1745" vertical-scroll-proportion="0.0" vertical-offset="129" max-vertical-offset="918">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/adminhtml/default/default/locale/en_US/translate.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="18" selection-start="3451" selection-end="3458" vertical-scroll-proportion="-5.740741" vertical-offset="1375" max-vertical-offset="3519">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/default/template/clnews/list.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="176" selection-start="2541" selection-end="2541" vertical-scroll-proportion="-6.3076925" vertical-offset="567" max-vertical-offset="1275">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/list.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="176" selection-start="2639" selection-end="2639" vertical-scroll-proportion="0.35193133" vertical-offset="567" max-vertical-offset="1275">
+        <state line="8707" column="17" selection-start="157464" selection-end="157464" vertical-scroll-proportion="0.5184729" vertical-offset="147598" max-vertical-offset="150484">
           <folding />
         </state>
       </provider>
