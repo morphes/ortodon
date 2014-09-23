@@ -1,0 +1,218 @@
+<?xml version='1.0'?>
+<config>
+    <sections>
+		<df_yandex_market translate='label' module='df_yandex_market'>
+			<label>Яндекс.Маркет</label>
+			<tab>df</tab>
+			<frontend_type>text</frontend_type>
+			<sort_order>20000</sort_order>
+			<show_in_default>1</show_in_default>
+			<show_in_website>1</show_in_website>
+			<show_in_store>1</show_in_store>
+
+            <groups>
+            	<general translate='label'>
+                    <label>Общие настройки</label>
+                    <frontend_type>text</frontend_type>
+                    <sort_order>1000</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+					<comment>
+						<![CDATA[
+						]]>
+					</comment>
+
+                    <fields>
+						<enabled translate='label'>
+							<label>Включить?</label>
+							<frontend_type>select</frontend_type>
+							<source_model>adminhtml/system_config_source_yesno</source_model>
+							<sort_order>1000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<frontend_model>df_admin/system_config_form_field</frontend_model>
+							<df_feature>df-yandex-market</df_feature>
+						</enabled>
+						
+						<currency translate='label'>
+							<label>В какой валюте передавать Яндекс.Маркету цены на товары?</label>
+							<frontend_type>select</frontend_type>
+							<source_model>df_yandex_market/system_config_source_currency</source_model>
+							<backend_model>df_yandex_market/system_config_backend_currency</backend_model>
+							<sort_order>2000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+						</currency>
+
+						<local_delivery_cost translate='label'>
+							<label>Стоимость доставки для покупателей из региона магазина</label>
+							<comment>
+								<![CDATA[
+									Например, для Москвы — стоимость доставки по Москве.
+									<br/>Заполнять необязательно.
+								]]>
+							</comment>
+							<frontend_type>text</frontend_type>
+							<sort_order>3000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<validate>
+								validate-digits
+								validate-zero-or-greater
+							</validate>
+						</local_delivery_cost>
+
+
+						<has_points_of_sale translate='label'>
+							<label>Имеются ли розничные точки продаж?</label>
+							<frontend_type>select</frontend_type>
+							<source_model>adminhtml/system_config_source_yesno</source_model>
+							<sort_order>4000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<frontend_model>df_admin/system_config_form_field</frontend_model>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</has_points_of_sale>
+
+
+						<pickup translate='label'>
+							<label>Имеется ли возможность самовывоза?</label>
+							<frontend_type>select</frontend_type>
+							<source_model>adminhtml/system_config_source_yesno</source_model>
+							<sort_order>5000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<frontend_model>df_admin/system_config_form_field</frontend_model>
+							<depends>
+								<enabled>1</enabled>
+								<has_points_of_sale>1</has_points_of_sale>
+							</depends>
+						</pickup>
+					</fields>
+				</general>
+
+
+
+				<shop translate='label'>
+					<label>Описание магазина</label>
+					<frontend_type>text</frontend_type>
+					<sort_order>2000</sort_order>
+					<show_in_default>1</show_in_default>
+					<show_in_website>1</show_in_website>
+					<show_in_store>1</show_in_store>
+					<fields>
+						<name_for_clients translate='label'>
+							<label>Название магазина для посетителей Яндекс.Маркета</label>
+							<comment>
+								<![CDATA[
+									Наибольшая длина — 20 символов.
+									В названии нельзя использовать слова,
+									не имеющие отношения к наименованию магазина
+									(например: лучший, дешевый), указывать номер телефона и т.п.
+									Название магазина должно совпадать
+									с фактическим названием магазина,
+									которое публикуется на сайте.
+									При несоблюдении этих требований модератор Яндекс.Маркета
+									может самостоятельно изменить название магазина.
+								]]>
+							</comment>
+							<frontend_type>text</frontend_type>
+							<sort_order>1000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<validate>
+								required-entry
+								validate-length	maximum-length-20
+							</validate>
+						</name_for_clients>
+
+						<name_for_administration translate='label'>
+							<label>Официальное название компании для администрации Яндекс.Маркета</label>
+							<comment>
+								<![CDATA[
+									Посетители это название не видят.
+								]]>
+							</comment>
+							<frontend_type>text</frontend_type>
+							<sort_order>2000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<validate>
+								required-entry
+							</validate>
+						</name_for_administration>
+
+						<agency translate='label'>
+							<label>Название агентства, которое оказывает техническую поддержку магазину и отвечает за работоспособность сайта</label>
+							<comment>
+								<![CDATA[]]>
+							</comment>
+							<frontend_type>text</frontend_type>
+							<sort_order>3000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<validate>
+							</validate>
+						</agency>
+
+						<support_email translate='label'>
+							<label>Контактный адрес технической поддежки магазина</label>
+							<comment>
+								<![CDATA[]]>
+							</comment>
+							<frontend_type>text</frontend_type>
+							<sort_order>4000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<validate>
+								validate-email
+							</validate>
+						</support_email>
+					</fields>
+				</shop>
+
+
+
+				<products translate='label'>
+					<label>Товары</label>
+					<frontend_type>text</frontend_type>
+					<sort_order>3000</sort_order>
+					<show_in_default>1</show_in_default>
+					<show_in_website>1</show_in_website>
+					<show_in_store>1</show_in_store>
+					<fields>
+						<conditions>
+							<label>Условия</label>
+							<comment>
+								<![CDATA[
+									Если условия не будут указаны Вами,
+									то модуль опубликует на Яндекс.Маркете
+									все товары Вашего магазина.
+								]]>
+							</comment>
+							<frontend_model>df_yandex_market/conditions</frontend_model>
+							<backend_model>df_yandex_market/system_config_backend_conditions</backend_model>
+							<sort_order>1000</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+						</conditions>
+					</fields>
+				</products>
+
+			</groups>
+		</df_yandex_market>
+	</sections>
+</config>

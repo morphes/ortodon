@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <sections>
+        <carriers>
+            <groups>
+                <cdek translate="label" module="cdek">
+                    <label>Mygento CDEK</label>
+                    <frontend_type>text</frontend_type>
+                    <sort_order>99</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <versioninfo>
+                            <frontend_model>cdek/version</frontend_model>
+                            <sort_order>0</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </versioninfo>
+                        <active translate="label">
+                            <label>Enabled</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>1</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </active>
+                        <login translate="label">
+                            <label>CDEK login</label>
+                            <frontend_type>obscure</frontend_type>
+                            <backend_model>adminhtml/system_config_backend_encrypted</backend_model>
+                            <sort_order>2</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </login>
+                        <password translate="label">
+                            <label>CDEK password</label>
+                            <frontend_type>obscure</frontend_type>
+                            <backend_model>adminhtml/system_config_backend_encrypted</backend_model>
+                            <sort_order>3</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </password>
+                        <title translate="label">
+                            <label>Title</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>4</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </title>
+                        <specificerrmsg translate="label">
+                            <label>Displayed Error Message</label>
+                            <frontend_type>textarea</frontend_type>
+                            <sort_order>5</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </specificerrmsg>
+                        <sallowspecific translate="label">
+                            <label>Ship to Applicable Countries</label>
+                            <frontend_type>select</frontend_type>
+                            <sort_order>6</sort_order>
+                            <frontend_class>shipping-applicable-country</frontend_class>
+                            <source_model>adminhtml/system_config_source_shipping_allspecificcountries</source_model>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </sallowspecific>
+                        <specificcountry translate="label">
+                            <label>Ship to Specific Countries</label>
+                            <frontend_type>multiselect</frontend_type>
+                            <sort_order>7</sort_order>
+                            <source_model>adminhtml/system_config_source_country</source_model>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                            <can_be_empty>1</can_be_empty>
+                        </specificcountry>
+                        
+                        
+                        
+                        <heading_1 translate="label">
+                            <label>Настройки доставки</label>
+                            <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
+                            <sort_order>8</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </heading_1> 
+                        <cities translate="label">
+                            <label>Origin city</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/cities</source_model> 
+                            <sort_order>9</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </cities>
+                        
+                        
+                        
+                        <displaydate translate="label">
+                            <label>Display suggested delivery dates</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>10</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </displaydate>
+                        <onlyone translate="label">
+                            <label>Calculate that we send only one default product</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <comment>For calculating and shipping we will always send one product</comment>
+                            <sort_order>11</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </onlyone>
+                       
+                       
+                        
+                        
+                        
+                        
+                        
+                        <oneweight translate="label">
+                            <label>One weight</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>12</sort_order>
+                            <comment>in kg</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>1</onlyone>
+                            </depends>
+                        </oneweight>
+                        <onelength translate="label">
+                            <label>One length</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>13</sort_order>
+                            <comment>in cm</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>1</onlyone>
+                            </depends>
+                        </onelength>
+                        <onewidth translate="label">
+                            <label>One width</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>14</sort_order>
+                            <comment>in cm</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>1</onlyone>
+                            </depends>
+                        </onewidth>
+                        <oneheight translate="label">
+                            <label>One height</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>15</sort_order>
+                            <comment>in cm</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>1</onlyone>
+                            </depends>
+                        </oneheight>
+                        
+                        
+                        
+                        
+                        <itemlength translate="label">
+                            <label>Attribute for length (in cm)</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/entity_attribute_source_list</source_model>
+                            <sort_order>16</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>0</onlyone>
+                            </depends>
+                        </itemlength>
+                        <fonelength translate="label">
+                            <label>One length</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>17</sort_order>
+                            <comment>in cm</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <itemlength>0</itemlength>
+                                <onlyone>0</onlyone>
+                            </depends>
+                        </fonelength>
+                        <itemwidth translate="label">
+                            <label>Attribute for width (in cm)</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/entity_attribute_source_list</source_model>
+                            <sort_order>18</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>0</onlyone>
+                            </depends>
+                        </itemwidth>
+                        <fonewidth translate="label">
+                            <label>One width</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>19</sort_order>
+                            <comment>in cm</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <itemwidth>0</itemwidth>
+                                <onlyone>0</onlyone>
+                            </depends>
+                        </fonewidth>
+                        <itemheight translate="label">
+                            <label>Attribute for height (in cm)</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/entity_attribute_source_list</source_model>
+                            <sort_order>20</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>0</onlyone>
+                            </depends>
+                        </itemheight>
+                        <foneheight translate="label">
+                            <label>One height</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>21</sort_order>
+                            <comment>in cm</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <itemheight>0</itemheight>
+                                <onlyone>0</onlyone>
+                            </depends>
+                        </foneheight>
+                        <itemweight translate="label">
+                            <label>Attribute for weight (in kg)</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/entity_attribute_source_list</source_model>
+                            <sort_order>22</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>0</onlyone>
+                            </depends>
+                        </itemweight>
+                        <foneweight translate="label">
+                            <label>One weight</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>23</sort_order>
+                            <comment>in kg</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <itemweight>0</itemweight>
+                                <onlyone>0</onlyone>
+                            </depends>
+                        </foneweight>
+                        
+                        
+                        
+                        
+                       
+                        
+                        
+                        
+                        
+                        <coff translate="label">
+                            <label>Dimension coefficient</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>26</sort_order>
+                            <comment>How much package is better than product (must be >= 1)</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                        </coff>
+                        <mode translate="label">
+                            <label>Delivery mode</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/mode</source_model> 
+                            <sort_order>27</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </mode>
+                        <cashondelivery translate="label">
+                            <label>Cash on delivery method name</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/cash</source_model> 
+                            <sort_order>29</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </cashondelivery>
+                        
+                        
+                        
+                        <heading_2 translate="label">
+                            <label>Первый метод доставки</label>
+                            <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
+                            <sort_order>30</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </heading_2> 
+                        <typeone translate="label">
+                            <label>First method</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/types</source_model> 
+                            <sort_order>31</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </typeone>
+                        <typeonename translate="label">
+                            <label>First method name</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>32</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </typeonename>
+                        <typeoneplus translate="label">
+                            <label>First method additional price</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>33</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </typeoneplus>
+                        <heading_3 translate="label">
+                            <label>Второй метод доставки</label>
+                            <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
+                            <sort_order>40</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </heading_3> 
+                        <typetwoenable translate="label">
+                            <label>Second method enabled</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>41</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </typetwoenable>
+                        <typetwo translate="label">
+                            <label>Second method</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/types</source_model> 
+                            <sort_order>42</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </typetwo>
+                        <typetwoname translate="label">
+                            <label>Second method name</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>43</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </typetwoname>
+                        <typetwoplus translate="label">
+                            <label>Second method additional price</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>44</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </typetwoplus>
+                        <heading_4 translate="label">
+                            <label>Третий метод доставки</label>
+                            <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
+                            <sort_order>50</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </heading_4> 
+                        <typethreeenable translate="label">
+                            <label>Third method enabled</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>51</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </typethreeenable>
+                        <typethree translate="label">
+                            <label>Third method</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/types</source_model> 
+                            <sort_order>52</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </typethree>
+                        <typethreename translate="label">
+                            <label>Third method name</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>53</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </typethreename>
+                        <typethreeplus translate="label">
+                            <label>Third method additional price</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>54</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </typethreeplus>
+                        <heading_5 translate="label">
+                            <label>Настройки вызова курьера</label>
+                            <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
+                            <sort_order>60</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </heading_5> 
+                        <callcron translate="label">
+                            <label>Enable call courier</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>61</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </callcron>
+                        <calltimebeg translate="label">
+                            <label>TimeBeg</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>62</sort_order>
+                            <comment>10:10</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </calltimebeg>
+                        <calltimeend translate="label">
+                            <label>TimeEnd</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>63</sort_order>
+                            <comment>12:10</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </calltimeend>
+                        <calllunchbeg translate="label">
+                            <label>LunchBeg</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>64</sort_order>
+                            <comment>12:10</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </calllunchbeg>
+                        <calllunchend translate="label">
+                            <label>LunchEnd</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>65</sort_order>
+                            <comment>13:10</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </calllunchend>
+                        <callsendphone translate="label">
+                            <label>SendPhone</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>66</sort_order>
+                            <comment>89513752311</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </callsendphone>
+                        <callsendername translate="label">
+                            <label>SenderName</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>67</sort_order>
+                            <comment>Платон Щукин</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </callsendername>
+                        <callcomment translate="label">
+                            <label>Comment</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>68</sort_order>
+                            <comment>вход с торца</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </callcomment>
+                        <callweight translate="label">
+                            <label>Weight</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>69</sort_order>
+                            <comment>3000</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </callweight>
+                        <callstreet translate="label">
+                            <label>Street</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>70</sort_order>
+                            <comment>Восточная</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </callstreet>
+                        <callhouse translate="label">
+                            <label>House</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>71</sort_order>
+                            <comment>6/5</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </callhouse>
+                        <callflat translate="label">
+                            <label>Flat</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>72</sort_order>
+                            <comment>7</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                        </callflat>
+                        <calldays translate="label">
+                            <label>Call days</label>
+                            <frontend_type>multiselect</frontend_type>
+                            <source_model>cdek/days</source_model> 
+                            <sort_order>73</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <callcron>1</callcron>
+                            </depends>
+                            <validate>
+                                required-entry
+                            </validate>
+                        </calldays>
+                        
+                        
+                        
+                        
+                        <heading_6 translate="label">
+                            <label>Техническая секция</label>
+                            <frontend_model>adminhtml/system_config_form_field_heading</frontend_model>
+                            <sort_order>80</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </heading_6> 
+                        <freeone>
+                            <label>Set 1st method free</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>81</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </freeone>
+                        <freetwo>
+                            <label>Set 2nd method free</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>82</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <typetwoenable>1</typetwoenable>
+                            </depends>
+                        </freetwo>
+                        <freethree>
+                            <label>Set 3rd method free</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>83</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <typethreeenable>1</typethreeenable>
+                            </depends>
+                        </freethree>
+                        <jquery translate="label">
+                            <label>Enable internal jQuery + UI</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <comment>Enable internally jQuery for autocomplete. If you already have jQuery enabled in your store, choose NO</comment>
+                            <sort_order>84</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </jquery>
+                        <jqueryformat translate="label">
+                            <label>Enable new address formatting script.</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <comment>Enable new address formatting script. jQuery required.</comment>
+                            <sort_order>85</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </jqueryformat>
+                        <json translate="label">
+                            <label>Enable Json helper</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <comment>Autocomplete helper for billing &amp; shipping city inputs</comment>
+                            <sort_order>86</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </json>
+                        <limit translate="label">
+                            <label>Limit for autocomplete helper</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>87</sort_order>
+                            <comment>Limit count of autocomplete variants</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <json>1</json>
+                            </depends>
+                        </limit>
+                        <nallimit translate="label">
+                            <label>Cash on delivery restriction</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>88</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </nallimit>
+                        <retdays translate="label">
+                            <label>Days back search count</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>89</sort_order>
+                            <comment>How much days to back in searching (numbers only, more than 0)</comment>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <can_be_empty>0</can_be_empty>
+                            <validate>
+                                required-entry
+                            </validate>
+                            
+                        </retdays>
+                        <retstatus translate="label">
+                            <label>Order status for returned orders</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_order_status</source_model>
+                            <sort_order>90</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>0</show_in_store>
+                        </retstatus>
+                        <cron translate="label">
+                            <label>Enable Cron for finding order status</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>91</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </cron>
+                        <cache translate="label">
+                            <label>Enable cache for hard cities (experimental)</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>92</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                            <depends>
+                                <onlyone>1</onlyone>
+                            </depends>
+                        </cache>
+                        <connect translate="label">
+                            <label>Connect via:</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>cdek/connect</source_model> 
+                            <sort_order>93</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>  
+                            <can_be_empty>0</can_be_empty>
+                        </connect>
+                        <logs translate="label">
+                            <label>Debug</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_yesno</source_model>
+                            <sort_order>100</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </logs>
+                    </fields>
+                </cdek>
+            </groups>
+        </carriers>
+    </sections>
+</config>

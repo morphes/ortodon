@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+<config>
+    <modules>
+        <Df_YandexMarket>
+            <version>1.0.0</version>
+        </Df_YandexMarket>
+    </modules>
+
+
+	<global>
+
+		<blocks>
+			<df_yandex_market>
+				<class>Df_YandexMarket_Block</class>
+			</df_yandex_market>
+		</blocks>
+
+		<helpers>
+			<df_yandex_market>
+				<class>Df_YandexMarket_Helper</class>
+			</df_yandex_market>
+		</helpers>
+
+		<models>
+			<df_yandex_market>
+				<class>Df_YandexMarket_Model</class>
+			</df_yandex_market>
+		</models>
+
+		<ignoredModules>
+			<entities>
+				<rm-yandex-market/>
+			</entities>
+		</ignoredModules>
+
+	</global>
+
+
+
+	<adminhtml>
+		<layout>
+			<updates>
+				<df_yandex_market>
+					<file>df/yandex_market.xml</file>
+				</df_yandex_market>
+			</updates>
+		</layout>
+	</adminhtml>
+
+
+	<frontend>
+		<routers>
+			<df-yandex-market>
+				<use>standard</use>
+				<args>
+					<module>Df_YandexMarket</module>
+					<frontName>df-yandex-market</frontName>
+				</args>
+			</df-yandex-market>
+		</routers>
+	</frontend>
+
+
+	<df>
+		<features>
+			<df-yandex-market>
+				<module>df_yandex_market</module>
+				<title>Яндекс.Маркет</title>
+				<url>http://magento-forum.ru/forum/217/</url>
+			</df-yandex-market>
+		</features>
+	</df>
+
+
+	<default>
+		<df_yandex_market>
+			<general>
+				<enabled>0</enabled>
+				<currency>RUB</currency>
+				<pickup>1</pickup>
+			</general>
+
+			<shop>
+				<name_for_clients><![CDATA[Рога и Копыта]]></name_for_clients>
+				<name_for_administration><![CDATA[ООО «Рога и Копыта»]]></name_for_administration>
+				<agency><![CDATA[Российская сборка Magento]]></agency>
+				<support_email><![CDATA[admin@magento-forum.ru]]></support_email>
+			</shop>
+
+		</df_yandex_market>
+	</default>
+
+
+</config>

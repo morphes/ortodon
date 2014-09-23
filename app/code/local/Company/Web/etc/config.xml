@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Company_Web>
+            <version>0.1.0</version>
+        </Company_Web>
+    </modules>
+    <frontend>
+        <routers>
+            <web>
+                <use>standard</use>
+                <args>
+                    <module>Company_Web</module>
+                    <frontName>web</frontName>
+                </args>
+            </web>
+        </routers>
+        <layout>
+            <updates>
+                <web>
+                    <file>web.xml</file>
+                </web>
+            </updates>
+        </layout>
+    </frontend>
+    <admin>
+        <routers>
+			<web>
+				<use>admin</use>
+				<args>
+					<module>Company_Web</module>
+					<frontName>web</frontName>
+				</args>
+			</web>
+        </routers>
+    </admin>
+    <adminhtml>
+		<menu>
+			<web module="web">
+				<title>Ortodon импорт</title>
+				<sort_order>71</sort_order>               
+				<children>
+					<items1 module="web">
+						<title>Общий импорт товаров</title>
+						<sort_order>0</sort_order>
+						<action>web/adminhtml_web/kanc</action>
+					</items1>
+					<!--<items2 module="web">
+						<title>Импорт Книг</title>
+						<sort_order>1</sort_order>
+						<action>web/adminhtml_web/books</action>
+					</items2>
+					<items3 module="web">
+						<title>Импорт Сувенирной Продукции</title>
+						<sort_order>2</sort_order>
+						<action>web/adminhtml_web/suvenir</action>
+					</items3>
+					<items4 module="web">
+						<title>Импорт Развивающей Продукции</title>
+						<sort_order>3</sort_order>
+						<action>web/adminhtml_web/kids</action>
+					</items4>
+					<items5 module="web">
+						<title>Прайс Канцелярии</title>
+						<sort_order>4</sort_order>
+						<action>web/adminhtml_web/pricekanc</action>
+					</items5>
+					<items6 module="web">
+						<title>Прайс Книг</title>
+						<sort_order>5</sort_order>
+						<action>web/adminhtml_web/pricebooks</action>
+					</items6>
+					<items7 module="web">
+						<title>Прайс Сувенирной Продукции</title>
+						<sort_order>6</sort_order>
+						<action>web/adminhtml_web/pricesuvenir</action>
+					</items7>
+					<items8 module="web">
+						<title>Прайс Развивающей Продукции</title>
+						<sort_order>7</sort_order>
+						<action>web/adminhtml_web/pricekids</action>
+					</items8>
+					<items9 module="web">
+						<title>Обновить Атрибуты Сувенирная</title>
+						<sort_order>8</sort_order>
+						<action>web/adminhtml_update/suvenir</action>
+					</items9>
+					<items10 module="web">
+						<title>Обновить Атрибуты Канцелярия</title>
+						<sort_order>9</sort_order>
+						<action>web/adminhtml_update/kanc</action>
+					</items10>
+					<items11 module="web">
+						<title>Обновить Атрибуты Книги</title>
+						<sort_order>10</sort_order>
+						<action>web/adminhtml_update/books</action>
+					</items11>
+					<items12 module="web">
+						<title>Обновить Атрибуты Разв. Продукции</title>
+						<sort_order>11</sort_order>
+						<action>web/adminhtml_update/kids</action>
+					</items12>-->
+				</children>
+			</web>
+		</menu>
+		<acl>
+			<resources>
+				<all>
+					<title>Allow Everything</title>
+				</all>
+				<admin>
+					<children>
+						<Company_Web>
+							<title>Web Module</title>
+							<sort_order>10</sort_order>
+						</Company_Web>
+					</children>
+				</admin>
+			</resources>
+		</acl>
+		<layout>
+			<updates>
+				<web>
+					<file>web.xml</file>
+				</web>
+			</updates>
+		</layout>
+    </adminhtml>   
+    <global>
+        <models>
+            <web>
+                <class>Company_Web_Model</class>
+                <resourceModel>web_mysql4</resourceModel>
+            </web>
+            <web_mysql4>
+                <class>Company_Web_Model_Mysql4</class>
+                <entities>
+                    <web>
+                        <table>web</table>
+                    </web>
+                </entities>
+            </web_mysql4>
+        </models>
+        <resources>
+            <web_setup>
+                <setup>
+                    <module>Company_Web</module>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </web_setup>
+            <web_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </web_write>
+            <web_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </web_read>
+        </resources>
+        <blocks>
+            <web>
+                <class>Company_Web_Block</class>
+            </web>
+        </blocks>
+        <helpers>
+            <web>
+                <class>Company_Web_Helper</class>
+            </web>
+        </helpers>
+    </global>
+</config>

@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<config>
+	<acl>
+		<resources>
+			<admin>
+				<children>
+					<rm>
+						<title>Российская сборка</title>
+						<children>
+							<yandex_market translate='title' module='df_yandex_market'>
+								<title>Яндекс.Маркет</title>
+							</yandex_market>
+						</children>
+					</rm>
+					<system>
+						<children>
+							<config>
+								<children>
+									<df_yandex_market>
+										<title>Российская сборка → Яндекс.Маркет</title>
+									</df_yandex_market>
+								</children>
+							</config>
+						</children>
+					</system>
+				</children>
+			</admin>
+		</resources>
+	</acl>
+</config>

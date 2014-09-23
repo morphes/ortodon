@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author		Sashas
+ * @category    Sashas
+ * @package     Sashas_Confimages
+ * @copyright   Copyright (c) 2013 Sashas IT Support Inc. (http://www.sashas.org)
+ * @license    http://opensource.org/licenses/GPL-3.0  GNU General Public License, version 3 (GPL-3.0)
+ */
+-->
+<config>
+    <modules>
+        <Sashas_Confimages>
+            <version>0.1.3</version>
+        </Sashas_Confimages>
+    </modules>
+	<global>
+         <blocks>
+        	<confimages>
+        		<class>Sashas_Confimages_Block</class>        		
+        	</confimages>
+        </blocks> 
+        <helpers>
+        	<confimages>
+        		<class>Sashas_Confimages_Helper</class>        		
+        	</confimages>
+        </helpers> 
+        <resources>
+            <confimages_setup>
+                <setup>
+                    <module>Sashas_Confimages</module>                 
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </confimages_setup>
+            <confimages_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </confimages_write>
+            <confimages_read>
+                <connection> 
+                    <use>core_read</use>
+                </connection>
+            </confimages_read>
+       </resources>                 
+	</global>
+	<frontend>
+        <layout>
+            <updates>
+                <confimages>
+                    <file>confimages.xml</file>
+                </confimages>
+            </updates>
+        </layout> 
+	</frontend>  
+    <default>
+        <confimages>
+            <confimages_group>
+                <extension_enabled><![CDATA[1]]></extension_enabled>
+                <show_placeholder><![CDATA[0]]></show_placeholder>
+                <custom_x><![CDATA[0]]></custom_x>
+                <custom_y><![CDATA[0]]></custom_y>
+            </confimages_group>
+        </confimages>
+    </default>	  
+</config>
+
+

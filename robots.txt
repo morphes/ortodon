@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*wishlist*
+Disallow: /*product_compare*
+Disallow: /*m-layered=*
+Disallow: /*cat=*
+Disallow: /*mode=*
+Disallow: /*order=*

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @author		Sashas
+ * @category    Sashas
+ * @package     Sashas_Confimages
+ * @copyright   Copyright (c) 2013 Sashas IT Support Inc. (http://www.sashas.org)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+-->
+<config>
+	  <tabs>
+		<sashas_modules translate="label" module="confimages">
+            <label>Sashas Extensions</label>
+            <sort_order>10</sort_order>
+        </sashas_modules>
+	  </tabs>
+	  <sections>
+	  	<confimages translate="label" module="confimages">
+	  		<label>Configurable Image Switcher</label>
+	  		<tab>sashas_modules</tab>
+	  		<sort_order>5000</sort_order>
+	  		<show_in_default>1</show_in_default>
+	  		<show_in_website>1</show_in_website>
+	  		<show_in_store>1</show_in_store>
+	  		<groups>
+	  			<confimages_group translate="label" module="confimages">
+	  				<label>Configrable Image Switcher Settings</label>
+	  				<frontend_type>text</frontend_type>
+	  				<sort_order>1000</sort_order>
+	  				<show_in_default>1</show_in_default>
+	  				<show_in_website>1</show_in_website>
+	  				<show_in_store>1</show_in_store>
+	  				<fields>
+	  					<extension_enabled translate="label">
+	  						<label>Enabled: </label>
+	  						<comment>Enable/Disable Extension</comment>
+	  						<frontend_type>select</frontend_type>
+	  						<source_model>adminhtml/system_config_source_yesno</source_model>
+	  						<sort_order>10</sort_order>
+	  						<show_in_default>1</show_in_default>
+	  						<show_in_website>1</show_in_website>
+	  						<show_in_store>1</show_in_store>	 						  						
+	  					</extension_enabled>
+	  					<show_placeholder translate="label">
+	  						<label>Allow Placeholder Images: </label>
+	  						<comment>Select Yes if you want that image changes to placeholder in case simple product without main image.</comment>
+	  						<frontend_type>select</frontend_type>	  			
+	  						<source_model>adminhtml/system_config_source_yesno</source_model>			
+	  						<sort_order>20</sort_order>
+	  						<show_in_default>1</show_in_default>
+	  						<show_in_website>1</show_in_website>
+	  						<show_in_store>1</show_in_store>	 						  						
+	  					</show_placeholder>	
+	  					<custom_x translate="label">
+	  						<label>Image Size Width: </label>
+	  						<comment>Used for integration with custom zoom only.</comment>
+	  						<frontend_type>text</frontend_type>	  					
+	  						<sort_order>30</sort_order>
+	  						<show_in_default>1</show_in_default>
+	  						<show_in_website>1</show_in_website>
+	  						<show_in_store>1</show_in_store>	 						  						
+	  					</custom_x>	
+	  					<custom_y translate="label">
+	  						<label>Image Size Height: </label>
+	  						<comment>Used for integration with custom zoom only.</comment>
+	  						<frontend_type>text</frontend_type>	  				  						
+	  						<sort_order>40</sort_order>
+	  						<show_in_default>1</show_in_default>
+	  						<show_in_website>1</show_in_website>
+	  						<show_in_store>1</show_in_store>	 						  						
+	  					</custom_y>		  						  									
+	  				</fields>
+	  			</confimages_group>
+	  		</groups>
+	  	</confimages>
+	  </sections>
+</config>
