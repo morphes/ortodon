@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30e8d14e-07a1-498c-910f-0da76c56d2b1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" afterPath="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Abstract.php" afterPath="$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Abstract.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/Geo/geo.php" afterPath="$PROJECT_DIR$/lib/Geo/geo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/list.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/list.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/price.phtml" afterPath="$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/price.phtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ortodon.iws" />
@@ -26,29 +30,105 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
+      <file leaf-file-name="Price.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/Price.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2991" column="17" selection-start="53497" selection-end="53497" vertical-scroll-proportion="0.37438422" vertical-offset="50543" max-vertical-offset="150484">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="3655">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php">
+      <file leaf-file-name="Data.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Helper/Data.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="351" column="29" selection-start="17769" selection-end="17769" vertical-scroll-proportion="0.0" vertical-offset="5967" max-vertical-offset="18411">
+            <state line="122" column="34" selection-start="4540" selection-end="4540" vertical-scroll-proportion="-7.0961537" vertical-offset="1314" max-vertical-offset="14671">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="News.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Block/News.php">
+      <file leaf-file-name="Store.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Model/Store.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
+            <state line="978" column="9" selection-start="27968" selection-end="27968" vertical-scroll-proportion="0.58505154" vertical-offset="15781" max-vertical-offset="21114">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="0" selection-start="973" selection-end="973" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="1207">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Price.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Product/Type/Price.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="8" selection-start="1384" selection-end="1384" vertical-scroll-proportion="112.46154" vertical-offset="3315" max-vertical-offset="7140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="price.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/price.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="197" column="26" selection-start="12385" selection-end="12385" vertical-scroll-proportion="-4.7115383" vertical-offset="3104" max-vertical-offset="7378">
+              <folding>
+                <element signature="e#6#968#0" expanded="true" />
+                <element signature="e#979#1133#0" expanded="true" />
+                <marker date="1413265151000" expanded="true" signature="12384:12867" placeholder="..." />
+                <marker date="1413265151000" expanded="true" signature="12384:12844" placeholder="..." />
+                <marker date="1413265151000" expanded="true" signature="12384:12843" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/List.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="218" column="28" selection-start="6283" selection-end="6291" vertical-scroll-proportion="-4.8076925" vertical-offset="3065" max-vertical-offset="4318">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Abstract.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/Abstract.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="214" column="35" selection-start="5869" selection-end="5869" vertical-scroll-proportion="-6.1153846" vertical-offset="2929" max-vertical-offset="11033">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Helper/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="7718">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Template.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Block/Template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="7" selection-start="1518" selection-end="1518" vertical-scroll-proportion="-5.4615383" vertical-offset="124" max-vertical-offset="5763">
+              <folding>
+                <marker date="1409913138000" expanded="false" signature="5704:5795" placeholder="..." />
+                <marker date="1409913138000" expanded="true" signature="5796:6067" placeholder="..." />
+                <marker date="1409913138000" expanded="false" signature="5810:5954" placeholder="..." />
+                <marker date="1409913138000" expanded="true" signature="5993:6067" placeholder="..." />
+                <marker date="1409913138000" expanded="false" signature="6214:6358" placeholder="..." />
+                <marker date="1409913138000" expanded="true" signature="6434:6473" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,16 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/media/css/8894f47d0b3788517a36f243f4c5729f.css" />
-        <option value="$PROJECT_DIR$/media/css/954e416aed4d3b8136cadf2c3d4dc740.css" />
-        <option value="$PROJECT_DIR$/media/css/9ea565a78b313760b10082c419f90aa0.css" />
-        <option value="$PROJECT_DIR$/media/css/ad0c20282d29505be62c13c5a37f6aba.css" />
-        <option value="$PROJECT_DIR$/skin/frontend/default/toys/js/appstockus.js" />
-        <option value="$PROJECT_DIR$/app/code/community/CommerceLab/Mcenter/Block/Abstract.php" />
-        <option value="$PROJECT_DIR$/app/code/core/Mage/Page/etc/config.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/footer.phtml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/layout/newsletter.xml" />
-        <option value="$PROJECT_DIR$/lib/ExcelReader/excelreader-prices.php" />
         <option value="$PROJECT_DIR$/lib/ExcelReader/excelreader.php" />
         <option value="$PROJECT_DIR$/magmi/web/magmi_run.php" />
         <option value="$PROJECT_DIR$/magmi/plugins/extra/itemprocessors/imageprocessor/imageitattributeemprocessor.php" />
@@ -91,7 +161,6 @@
         <option value="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterAdmin.xml" />
         <option value="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSlider.xml" />
         <option value="$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSuperSlider.xml" />
-        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml" />
         <option value="$PROJECT_DIR$/skin/frontend/default/theme419/css/camera.css" />
         <option value="$PROJECT_DIR$/skin/frontend/default/theme419/css/superfish.css" />
         <option value="$PROJECT_DIR$/app/design/frontend/base/default/template/faq/faq_block_left.phtml" />
@@ -117,6 +186,17 @@
         <option value="$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php" />
         <option value="$PROJECT_DIR$/app/design/frontend/default/default/template/clmcenter/main.phtml" />
         <option value="$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css" />
+        <option value="$PROJECT_DIR$/lib/Geo/geo.php" />
+        <option value="$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Abstract.php" />
+        <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product.php" />
+        <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Product/Type/Configurable/Price.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/list.phtml" />
+        <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/Abstract.php" />
+        <option value="$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Product/Type/Price.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/price.phtml" />
+        <option value="$PROJECT_DIR$/app/code/core/Mage/Core/Helper/Data.php" />
+        <option value="$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml" />
+        <option value="$PROJECT_DIR$/app/code/core/Mage/Core/Model/Store.php" />
       </list>
     </option>
   </component>
@@ -156,7 +236,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -185,7 +264,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -199,7 +278,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -221,7 +322,125 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme419" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme419" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme419" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="catalog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -247,23 +466,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="frontend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme419" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,22 +488,136 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="skin" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="frontend" />
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ortodon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Helper" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../lsdat/lsdating" />
+    <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -335,9 +660,10 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3481829" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15208334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -345,7 +671,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3481829" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -367,9 +692,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -389,62 +714,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8707" column="17" selection-start="157464" selection-end="157464" vertical-scroll-proportion="0.0" vertical-offset="147598" max-vertical-offset="150484">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/local/Company/Web/controllers/Adminhtml/WebController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="351" column="29" selection-start="17769" selection-end="17769" vertical-scroll-proportion="0.0" vertical-offset="5967" max-vertical-offset="18411">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Block/News.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1887">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Pay.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/Morphes_Tabs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="505" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterAdmin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSlider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="24" selection-start="614" selection-end="614" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/etc/modules/MorphesPro_FilterSuperSlider.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="567" selection-end="567" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="105" selection-start="2560" selection-end="2560" vertical-scroll-proportion="-6.3076925" vertical-offset="397" max-vertical-offset="1207" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/camera.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="456" column="30" selection-start="9648" selection-end="9648" vertical-scroll-proportion="0.0" vertical-offset="7529" max-vertical-offset="19686" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/superfish.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="93" column="40" selection-start="2645" selection-end="2645" vertical-scroll-proportion="0.0" vertical-offset="1379" max-vertical-offset="4556" />
@@ -560,9 +829,9 @@
         <state line="20" column="22" selection-start="528" selection-end="537" vertical-scroll-proportion="20.153847" vertical-offset="864" max-vertical-offset="4879" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Block/News.php">
+    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
+        <state line="2991" column="17" selection-start="53497" selection-end="53497" vertical-scroll-proportion="0.0" vertical-offset="50543" max-vertical-offset="150484">
           <folding />
         </state>
       </provider>
@@ -574,9 +843,216 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skin/frontend/default/theme419/css/styles.css">
+    <entry file="file://$PROJECT_DIR$/app/code/community/CommerceLab/News/Block/News.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2991" column="17" selection-start="53497" selection-end="53497" vertical-scroll-proportion="0.37438422" vertical-offset="50543" max-vertical-offset="150484">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/toys/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="69" selection-start="1679" selection-end="1732" vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="1547">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Country.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="1.9615384" vertical-offset="51" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Geoip.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Observer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Wrapper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="110.5" vertical-offset="2873" max-vertical-offset="7565">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Openstream/GeoIP/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="81.80769" vertical-offset="2127" max-vertical-offset="2890">
+          <folding>
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1409913126000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Geo/geo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="39" selection-start="625" selection-end="625" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="2754">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/community/Openstream/GeoIP/Model/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="34" selection-start="635" selection-end="635" vertical-scroll-proportion="-4.9038463" vertical-offset="0" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/controllers/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="6" selection-start="1302" selection-end="1304" vertical-scroll-proportion="-4.8076925" vertical-offset="39" max-vertical-offset="2550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/controllers/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="6" selection-start="1249" selection-end="1251" vertical-scroll-proportion="-4.8076925" vertical-offset="39" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="4" selection-start="1752" selection-end="1752" vertical-scroll-proportion="-8.538462" vertical-offset="66" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Product/Type/Configurable/Price.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="27" selection-start="2179" selection-end="2179" vertical-scroll-proportion="-12.423077" vertical-offset="289" max-vertical-offset="1938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/list.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="50" selection-start="3030" selection-end="3042" vertical-scroll-proportion="-4.7115383" vertical-offset="758" max-vertical-offset="2533">
+          <folding>
+            <element signature="e#6#968#0" expanded="true" />
+            <element signature="e#978#1053#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/Price.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="3655">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Helper/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.5" vertical-offset="26" max-vertical-offset="7718">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Block/Template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="7" selection-start="1518" selection-end="1518" vertical-scroll-proportion="-5.4615383" vertical-offset="124" max-vertical-offset="5763">
+          <folding>
+            <marker date="1409913138000" expanded="false" signature="5704:5795" placeholder="..." />
+            <marker date="1409913138000" expanded="true" signature="5796:6067" placeholder="..." />
+            <marker date="1409913138000" expanded="false" signature="5810:5954" placeholder="..." />
+            <marker date="1409913138000" expanded="true" signature="5993:6067" placeholder="..." />
+            <marker date="1409913138000" expanded="false" signature="6214:6358" placeholder="..." />
+            <marker date="1409913138000" expanded="true" signature="6434:6473" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/List.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="218" column="28" selection-start="6283" selection-end="6291" vertical-scroll-proportion="-4.8076925" vertical-offset="3065" max-vertical-offset="4318">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/Abstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="214" column="35" selection-start="5869" selection-end="5869" vertical-scroll-proportion="-6.1153846" vertical-offset="2929" max-vertical-offset="11033">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Catalog/Model/Product/Type/Price.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="8" selection-start="1384" selection-end="1384" vertical-scroll-proportion="112.46154" vertical-offset="3315" max-vertical-offset="7140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/catalog/product/price.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="197" column="26" selection-start="12385" selection-end="12385" vertical-scroll-proportion="-4.7115383" vertical-offset="3104" max-vertical-offset="7378">
+          <folding>
+            <element signature="e#6#968#0" expanded="true" />
+            <element signature="e#979#1133#0" expanded="true" />
+            <marker date="1413265151000" expanded="true" signature="12384:12867" placeholder="..." />
+            <marker date="1413265151000" expanded="true" signature="12384:12844" placeholder="..." />
+            <marker date="1413265151000" expanded="true" signature="12384:12843" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Helper/Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="34" selection-start="4540" selection-end="4540" vertical-scroll-proportion="-7.0961537" vertical-offset="1314" max-vertical-offset="14671">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/default/theme419/template/page/html/header.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="973" selection-end="973" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/code/core/Mage/Core/Model/Store.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="978" column="9" selection-start="27968" selection-end="27968" vertical-scroll-proportion="0.58505154" vertical-offset="15781" max-vertical-offset="21114">
           <folding />
         </state>
       </provider>

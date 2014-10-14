@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Morphes_Geoprice>
+            <version>0.1.0</version>
+        </Morphes_Geoprice>
+    </modules>
+    <global>
+        <models>
+            <core>
+                <rewrite>
+                    <store>Morphes_Geoprice_Model_Core_Store</store>
+                </rewrite>
+            </core>           
+        </models>
+    </global>
+</config>
